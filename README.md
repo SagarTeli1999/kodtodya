@@ -1,7 +1,6 @@
 Hi 👋 My name is $agar Teli
 =========================
 
----------------------------------------g
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Java, Spring, Spring Boot and Apache Camel. I love Linux Kernel-based OSs Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.
 
 ### Here is what I am working on 👋
@@ -9,7 +8,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 🔭 I’m currently working on : Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
 - 🌱 I’m currently learning : Java Fullstack Development
 - 👯 I’m looking to collaborate on : Java projects
-- 📫 How to reach me : []
+- 📫 How to reach me : [https://github.com/SagarTeli1999]
 - ⚡ Fun fact : You know, who I'm!! 😜
 
 ## Stack I work with
@@ -68,11 +67,8 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 
 ## Profile Visits
-![Visitor Count]()
+![Visitor Count](https://github.com/SagarTeli1999)
 
-### Badges
-| <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kodtodya&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Avadhut's github stats" /></a> | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodtodya&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
 
 <b>My GitHub Stats</b>
 
