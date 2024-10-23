@@ -67,8 +67,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 
 ## Profile Visits
-![Visitor Count](https://github.com/SagarTeli1999)
-
+![Visitor Count](https://profile-counter.glitch.me/{Kodtodya}/count.svg)
 
 <b>My GitHub Stats</b>
 
